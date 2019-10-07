@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'phonenumber_field',
     'contacts.apps.ContactsConfig',
-    'shipping.apps.ShippingConfig',
+    'address.apps.AddressConfig',
 
 ]
 
